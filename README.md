@@ -1,2 +1,5 @@
-# sprint3-python-project
-Sprint 3 Python Foundations — Video Game Sales Analysis
+Project Title: Video Game Sales Analysis
+
+Description: Uses Python to analyze 21 different videogames by 10 different categories.
+
+Dataset Source: Provided by TripleTen
