@@ -5,7 +5,7 @@ print(game_name[:7])
 ##########################################################
 
 #2b) 
-
+messy_names = ['  Wii Sports  ', 'TETRIS', '  mario kart WII']
 for name in messy_names:
     clean_name = name.strip().lower()
     print(clean_name)
